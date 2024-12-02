@@ -1,3 +1,3 @@
 # VLSI4334-Project
 
-Here
+The report, verification, and implementation is located here. If there are any issues with running it please reach out.
